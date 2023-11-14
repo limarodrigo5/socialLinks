@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório dos meus links sociais! Aqui você encontrará links para todas as minhas redes sociais e projetos.
 
+![mobile](https://github.com/limarodrigo5/socialLinks/assets/49044384/7e6002f2-cfde-49cf-9507-9172a17a0940)
+
 ## Índice 📚
 
 - [Introdução](#introdução-)
