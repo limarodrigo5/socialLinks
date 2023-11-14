@@ -14,12 +14,10 @@ Este projeto consiste em uma página web simples onde você pode encontrar todos
 
 ## Como Usar ⚙️
 
-Para usar este projeto, clone o repositório e abra o arquivo `index.html` em seu navegador.
+Para acessar este projeto, acesse o [GitHub Pages](https://limarodrigo5.github.io/socialLinks/) ou clone o repositório e abra o arquivo `index.html` em seu navegador.
 
 ```bash
-git clone https://seu-repositorio-aqui
-cd social-links
-open index.html
+git clone https://github.com/limarodrigo5/socialLinks.git
 ```	
 
 ## Tecnologias Utilizadas 🧰
